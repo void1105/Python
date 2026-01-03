@@ -1,6 +1,9 @@
-# 🐍 Python Learning Journey
+# 🚀 Python Projects
+This directory houses my functional Python applications. Each program here represents a milestone in my ability to take a real-world problem and solve it with code.
 
-Welcome to my Python repository! I'm 13 years old and I'm learning Python as the first step toward a career in **Artificial Intelligence**.
+### 🛠️ Key Areas of Focus:
+- **Interactive Logic:** Developing games and tools that respond to user input.
+- **Mathematical Modeling:** Building calculators that automate complex formulas.
+- **Data Management:** Creating programs that handle lists, dictionaries, and user data.
 
-## 📺 Course Progress
-I am currently working through the **Bro Code 12-Hour Python Course**. My goal is to master the fundamentals before moving into AI libraries like NumPy and PyTorch.
+**The Goal:** Mastering the "Logic Layer" of programming so I can eventually build and deploy AI models that solve real-world problems.
