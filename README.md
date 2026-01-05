@@ -6,9 +6,9 @@ Welcome! I am a 13-year-old aspiring **AI Engineer**. This repository is a dedic
 My goal is to build a rock-solid foundation in Python logic. I believe that to build great Artificial Intelligence, you first have to understand the "brain" of the code—loops, data structures, and algorithms.
 
 ## 📂 Repository Structure
-I’ve organized my work to show both the theory and the application:
+I’ve curated this repository to showcase functional programs and logical milestones:
 
-* **[/projects](./Project):** Full-scale functional programs, games, and tools.
+* **[🚀 My Python Projects](./Project):** This folder contains full-scale functional programs, games, and tools I have built during this course.
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3
