@@ -9,7 +9,6 @@ My goal is to build a rock-solid foundation in Python logic. I believe that to b
 I’ve organized my work to show both the theory and the application:
 
 * **[/projects](./Project):** Full-scale functional programs, games, and tools.
-* **[/notes](./Note):** Daily exercises, syntax practice, and logical experiments.
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3
